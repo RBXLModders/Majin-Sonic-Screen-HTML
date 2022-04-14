@@ -1,4 +1,4 @@
-# Majin-Sonic-Screen-HTML
+# Accurate Sonic CD Majin Screen HTML Recreation
 A recreation of the secret Majin Sonic screen seen in the sound test menu in Sonic CD in HTML!
 
 This recreation has
